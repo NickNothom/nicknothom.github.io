@@ -1,14 +1,57 @@
 # Site settings
-title: Nick Nothom
-email: nicknothom@gmail.com
-url: https://nicknothom.github.io/
-description: "Work and Life of Nick Nothom"
-skills: "Designer - Engineer - Maker"
-meta_author: Nothom Nick
+title: Firstname Lastname
+email: yourEmailAddress@website.com
+url: https://yourGithubUsername.github.io/
+description: "My personal portfolio"
+skills: "Short tagline about yourself.."W
+meta_author: Lastname Firstname
 
+# Description
+about1: "Here's your about section. Post a paragraph or two about yourself to tell people what you do, and what you're interested in."
+about2: "And here's where you can write more about that. For now, the about section is split into two parts. I might make this better later"
+
+# Color Settings (hex-codes without the leading hash-tag)
+# I recommend using a site like this: https://www.canva.com/color-palette/
+# It will help choose a starting pallete. But you'll need to do some tweaking.
+color:
+  #Background behind profile pic, and about section
+  #Choose this color somewhat conservatively. I recommend a darker color. Default: 1F2F42
+  primary: 1F2F42
+
+  #Header, Footer, and large text labels
+  #This is your accent color, this can pop a little bit. Default: 1F67B4
+  secondary: 1F67B4
+
+  #Section marker and copyright tag
+  #This color should be conservative, but compliment the accent color. Default: 233140
+  secondary-dark: 233140
+
+  #Background behind portfolio and contact forms.
+  #Default: 111111
+  background: 111111
+
+# Footer settings
+footer:
+  copyright: User Name
+  location: Your location. Be as vague or specific as you like
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: http://www.facebook.com/myfacebookpath
+  - title: github
+    url: http://github.com/githubusername
+  - title: linkedin
+    url: http://www.linkedin.com/in/linkedinusername
+
+
+# Relative Path Links
+profile_picture: img/profile.png
 baseurl: /instafolio
 
-about: "My current research is at the intersection of emotion and applied science. I am interested in devices that excite people and in building technologies that make lives better through sensors and algorithms. I am studying computer science and software development. I make stuff."
+credits: "Instafolio is developed by Nick Nothom, and utilizes Github Pages, Jekyll, and the Freelancer theme."
 
 # Google webmaster tools
 google_verify:
@@ -25,30 +68,6 @@ contact: static
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: myshortname
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 1F2F42 #80B3FF
-  #primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 1F67B4 #2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-  background: 111111
-
-# Footer settings
-footer:
-  copyright: Nicholas Nothom
-  location: Saint Paul, Minnesota
-  social: Around the Web
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: facebook
-    url: http://www.facebook.com/nick.nothom
-  - title: github
-    url: http://github.com/nicknothom
-  - title: linkedin
-    url: http://www.linkedin.com/in/nicholasnothom/
 
 # Build settings
 markdown: kramdown
