@@ -1,11 +1,6 @@
-/*!
- * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
-
 body {
     overflow-x: hidden;
+    background-color: #111111;
 }
 
 p {
@@ -72,7 +67,7 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
-    background-color: #fff;
+    background-color: #111111;
 }
 
 .img-centered {
@@ -394,6 +389,7 @@ footer .footer-below {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+    background-color: #111111;
 }
 
 .portfolio-modal .modal-content h2 {
