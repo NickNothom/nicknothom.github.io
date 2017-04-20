@@ -3,7 +3,7 @@ title: Firstname Lastname
 email: yourEmailAddress@website.com
 url: https://yourGithubUsername.github.io/
 description: "My personal portfolio"
-skills: "Short tagline about yourself.."W
+skills: "Short tagline about yourself.."
 meta_author: Lastname Firstname
 
 # Description
@@ -13,21 +13,26 @@ about2: "And here's where you can write more about that. For now, the about sect
 # Color Settings (hex-codes without the leading hash-tag)
 # I recommend using a site like this: https://www.canva.com/color-palette/
 # It will help choose a starting pallete. But you'll need to do some tweaking.
+
+#primary
+#Background behind profile pic, and about section
+#Choose this color somewhat conservatively. I recommend a darker color. Default: 1F2F42
+  
+#secondary
+#Header, Footer, and large text labels
+#This is your accent color, this can pop a little bit. Default: 1F67B4
+  
+#secondary-dark
+#Section marker and copyright tag
+#This color should be conservative, but compliment the accent color. Default: 233140
+  
+#background
+#Background behind portfolio and contact forms. Default: 111111
+  
 color:
-  #Background behind profile pic, and about section
-  #Choose this color somewhat conservatively. I recommend a darker color. Default: 1F2F42
   primary: 1F2F42
-
-  #Header, Footer, and large text labels
-  #This is your accent color, this can pop a little bit. Default: 1F67B4
   secondary: 1F67B4
-
-  #Section marker and copyright tag
-  #This color should be conservative, but compliment the accent color. Default: 233140
   secondary-dark: 233140
-
-  #Background behind portfolio and contact forms.
-  #Default: 111111
   background: 111111
 
 # Footer settings
