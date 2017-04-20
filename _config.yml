@@ -1,12 +1,12 @@
 # Site settings
 title: Nick Nothom
 email: nicknothom@gmail.com
-url: https://github.com/nicknothom/instafolio/
+url: https://nicknothom.github.io/instafolio/
 description: "Work and Life of Nick Nothom"
 skills: "Designer - Engineer - Maker"
 meta_author: Nothom Nick
 
-baseurl: https://github.com/nicknothom/instafolio/
+baseurl: https://nicknothom.github.io/instafolio/
 
 about: "My current research is at the intersection of emotion and applied science. I am interested in devices that excite people and in building technologies that make lives better through sensors and algorithms. I am studying computer science and software development. I make stuff."
 
