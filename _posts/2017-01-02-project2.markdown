@@ -3,7 +3,7 @@ layout: default
 title: Project #2
 modal-id: 6
 date: 2014-07-15
-img: submarine.jpg
+img: submarine.png
 alt: image-alt
 project-date: January 2017
 category: Example
