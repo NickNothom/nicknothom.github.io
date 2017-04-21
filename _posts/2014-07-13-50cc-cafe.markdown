@@ -5,8 +5,10 @@ modal-id: 6
 date: 2014-07-15
 img: cafe900600.jpg
 alt: image-alt
-project-date: April 2014
+project-date: Spring 2014
 category: Automotive
-description: Here's where I'll put the description for my project!
+description: The goal of this project was to build a tiny, fast 50cc motorcycle. It's based on a 1991 Tomos Golden Bullet. Modifications: weight reduction, indicator delete, oil injection delete, LED lights, handmade seat, porting / polishing, 19mm dellorto carburetor, and cut fenders. 
+
+It's capable of a touch over 50mph. Slightly less in hot weather. 
 
 ---
