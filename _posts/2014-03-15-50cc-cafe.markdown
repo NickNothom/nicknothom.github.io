@@ -2,7 +2,7 @@
 layout: default
 title: 50CC Cafe Racer
 modal-id: 6
-date: 2014-07-15
+date: 2014-03-15
 img: cafe900600.jpg
 alt: image-alt
 project-date: Spring 2014
