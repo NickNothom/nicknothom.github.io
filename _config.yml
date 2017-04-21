@@ -1,16 +1,18 @@
 # Site settings
-title: Firstname Lastname
-email: yourEmailAddress@website.com
-url: https://yourGithubUsername.github.io/
-description: "My personal portfolio"
-skills: "Short tagline about yourself.."
-meta_author: Lastname Firstname
+title: Nick Nothom
+email: nicknothom@gmail.com
+url: https://nicknothom.github.io/
+description: "The work and life of Nick Nothom"
+skills: "Designer - Engineer - Maker"
+meta_author: Nothom Nick
 
 # Description
-about1: "Here's your about section. Post a paragraph or two about yourself to tell people what you do, and what you're interested in."
-about2: "And here's where you can write more about that. For now, the about section is split into two parts. I might make this better later"
+about1: "My current research is at the intersection of emotion and applied science."
+about2: "I am interested in devices that excite people and in building technologies that make lives 
+better through sensors and algorithms. I make stuff."
 
-# Color Settings (hex-codes without the leading hash-tag)
+
+# Color Settings (hex-codes without the leading hash)
 # I recommend using a site like this: https://www.canva.com/color-palette/
 # It will help choose a starting pallete. But you'll need to do some tweaking.
 
@@ -37,26 +39,26 @@ color:
 
 # Footer settings
 footer:
-  copyright: User Name
-  location: Your location. Be as vague or specific as you like
+  copyright: Nick Nothom
+  location: Saint Paul, Minnesota
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url: http://www.facebook.com/myfacebookpath
+    url: https://www.facebook.com/nick.nothom
   - title: github
-    url: http://github.com/githubusername
+    url: https://github.com/NickNothom
   - title: linkedin
-    url: http://www.linkedin.com/in/linkedinusername
+    url: https://www.linkedin.com/in/nicholasnothom/
 
 
 # Relative Path Links
 profile_picture: img/profile.png
 baseurl: /instafolio
 
-credits: "Instafolio is developed by Nick Nothom, and utilizes Github Pages, Jekyll, and the Freelancer theme."
+credits: "Instafolio is developed by me, and utilizes Github Pages, Jekyll, and the Freelancer theme."
 
 # Google webmaster tools
 google_verify:
