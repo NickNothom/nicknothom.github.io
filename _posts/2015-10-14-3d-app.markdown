@@ -1,0 +1,13 @@
+---
+layout: default
+title: 3D App Prototype
+modal-id: 5
+date: 2015-10-14
+img: 3dapp900600.jpg
+alt: image-alt
+project-date: Fall 2015
+category: App Development
+description: |
+  The goal of this project was to experiment with designing apps in real 3d space, to better understand how meaningful animations could be designed. Everything was done in blender. Overall, it's pretty cool to actually be able to animate panes floating around in 3d. Although, a lot of work for something that can't directly translate to a working prototype. 
+
+---
