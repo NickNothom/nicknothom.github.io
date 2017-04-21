@@ -1,0 +1,17 @@
+---
+layout: default
+title: 50CC Cafe Racer
+modal-id: 6
+date: 2014-03-15
+img: cafe900600.jpg
+alt: image-alt
+project-date: Spring 2014
+category: Automotive
+description: |
+  The goal of this project was to build a tiny, fast 50cc motorcycle. It's based on a 1991 Tomos Golden Bullet. Modifications: weight reduction, indicator delete, oil injection delete, LED lights, handmade seat, porting / polishing, 19mm dellorto carburetor, cut fenders, cold air intake, and an Estoril expansion chamber exhaust. 
+
+  It's capable of a touch over 50mph. Slightly less in hot weather. 
+  
+  
+
+---
