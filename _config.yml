@@ -56,7 +56,7 @@ social:
 
 # Relative Path Links
 profile_picture: img/profile.png
-baseurl: /instafolio
+#baseurl: /instafolio
 
 credits: "Instafolio is developed by me, and utilizes Github Pages, Jekyll, and the Freelancer theme."
 
