@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 1
+title: Subaru BattleWagon
+date: 2014-07-18
+img: subaru900600.jpg
+alt: image-alt
+project-date: Winter 2016
+category: Automotive
+description: >
+  The goal of this project was to build a on offroad capable station wagon. I wanted some Jeep like capabilities, but with a large cargo area and car-like handling.
+
+  I started with a 1999 Subaru Legacy Outback. The first modification was a 2" lift to increase ground clearance. Then, the engine was removed for the fitment of new timing components and a new clutch. At this point many repairs were made.
+
+  Next I coated the entire vehicle in ~15 layers of Plasti Dip. A durable coating typically used on tool handles. After that, I fitted larger snow tires on low offset Method Rally wheels. 
+
+  For a cross country trip, the rear seats were removed and it was converted into a two seather with a pickup style bed in the back. 
+---
