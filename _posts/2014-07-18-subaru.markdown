@@ -8,14 +8,11 @@ alt: image-alt
 project-date: Winter 2016
 category: Automotive
 description: >
+
   # H1
+
   ## H2
 
-  size  material      color
-  ----  ------------  ------------
-  9     leather       brown
-  10    hemp canvas   natural
-  11    glass         transparent
 
   - This
 
