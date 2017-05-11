@@ -45,4 +45,7 @@ description: >
 
 
 
+  
+  <img src="http://i.imgur.com/UWNXK2s.jpg" alt="Aerial Photo" style="width: 25%;"/>
+
 ---
