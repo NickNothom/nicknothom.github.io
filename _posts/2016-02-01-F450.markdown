@@ -15,9 +15,15 @@ description: >
   For firmware, I chose to use ArduCopter as it already supported all of these features. 
   For a list of hardware, see [here](https://docs.google.com/spreadsheets/d/1mEt1_eJSIiduIqlckn3DclfPrjCSxVvRpn57FSve-7M/edit?usp=sharing).
 
+
+
   [Performance Demonstration](https://www.youtube.com/watch?v=BGzpR9j6Lq4)
 
+
+
   Onboard Electronics:
+
+
 
   1. Pixhawk
 
@@ -33,8 +39,10 @@ description: >
 
   7. 915mhz telemetry radio
 
+
+
   Overall, the build achieved an excellent mix of results with acrobatic abilities, autonomous flight, stability in high winds, and portability. 
 
-  ![Panorama](http://i.imgur.com/UWNXK2s.jpg)
+
 
 ---
