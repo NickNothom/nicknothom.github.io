@@ -35,4 +35,6 @@ description: >
 
   Overall, the build achieved an excellent mix of results with acrobatic abilities, autonomous flight, stability in high winds, and portability. 
 
+  ![Panorama](http://i.imgur.com/UWNXK2s.jpg)
+
 ---
