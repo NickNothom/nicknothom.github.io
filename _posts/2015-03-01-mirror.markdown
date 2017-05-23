@@ -1,0 +1,24 @@
+---
+layout: default
+title: Smart Mirror
+modal-id: 7
+date: 2015-03-01
+img: mirror900600.jpg
+alt: image-alt
+project-date: Spring 2015
+category: Human Computer Interaction
+description: >
+  I propose a shift in how people acquire information. 
+
+
+
+
+  My research is exploring a new way to use technology to be more informed. The state of innovation currently is to provide more information, but less interaction to get it. To state briefly; the device I aim to create is a “smart mirror”. It is a wall mounted mirror which displays relevant items to the user such as weather, scheduling, messages, and other fields of interest. The mirror will solve a problem that many people experience each day and night; getting information without distraction. Before bed, the user may want to know whether it will snow the next morning so they can plan their commute. When using a computer or mobile device, the user will often become distracted in other media. In the future, the user will glance at their wall to find that information instantly. It is the first device of its type to orient itself as a companion to the user rather than another device to operate. It also features spectacular voice control. When speaking to the device, it doesn't feel like dictating to a machine, it feels like talking to a person. 
+
+
+
+
+  The combination of these features is limitless.
+
+
+---
