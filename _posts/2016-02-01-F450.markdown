@@ -17,10 +17,6 @@ description: >
 
 
 
-  [Performance Demonstration](https://www.youtube.com/watch?v=BGzpR9j6Lq4)
-
-
-
   Onboard Electronics:
 
 
@@ -42,6 +38,11 @@ description: >
 
 
   Overall, the build achieved an excellent mix of results with acrobatic abilities, autonomous flight, stability in high winds, and portability. 
+  
+  
+  
+  
+  <div style='position:relative;padding-bottom:57%'><iframe src='https://gfycat.com/ifr/ComposedGlumBighornedsheep' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 
 
