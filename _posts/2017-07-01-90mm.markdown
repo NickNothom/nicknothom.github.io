@@ -1,0 +1,14 @@
+---
+layout: default
+title: 90MM Brushless Multirotor
+modal-id: 10
+date: 2016-07-15
+img: 90mm900600.jpg
+alt: image-alt
+project-date: July 2017
+category: Robotics
+description: >
+  90MM Details go here
+
+  <div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/DistantInconsequentialIslandwhistler' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
+---
