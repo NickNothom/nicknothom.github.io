@@ -9,7 +9,43 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: >
-  Prusa i3 Details go here
+  This is my Prusa i3 MK2S. I assembled it in July 2017. It's an incredibly high FDM printer that is still accessible to individuals. I created a heated chamber as well to assist in printing materials such as ABS that have a high tendency to warp. The direct drive extruder allows it to print flexible materials well like TPU. 
+  
+  
+  
+  Specs:
+  
+  
+  
+  1. Max Extruder Temp: 300C
+  
+  2. Max Bed Temp: 120C
+  
+  3. Build Area: 25 x 21 x 20 cm
+  
+  
+  
+  Materials:
+  
+  
+  
+  1. PLA
+  
+  2. PET(G)
+  
+  3. ABS
+  
+  4. Polycarbonate (PC-MAX)
+  
+  5. TPU (98A Durometer)
+  
+  6. HIPS
+  
+  7. Nylon
+  
+  8. Wood (Woodfill / Timberfill / Hatchbox wood PLA)
+  
+  
 
   <div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/DistantInconsequentialIslandwhistler' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
 ---
