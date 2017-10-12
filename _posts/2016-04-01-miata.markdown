@@ -8,13 +8,57 @@ alt: image-alt
 project-date: Spring 2016
 category: Automotive
 description: >
-  Words here
+  This is my 1991 NA Mazda Miata. It's still naturally aspirated, but has many modifications that make it an excellent car for the track, or for daily use. 
+  
+  Modifications:
+  
+  1. Exedy 6 Puck Clutch
+  
+  2. Flyin Miata V Maxx fully adjustable coilovers
+  
+  3. FM sway bar bushings
+  
+  4. Cockpit integrated Motorola Moto X for Engine Management, navigation, and music
+  
+  5. Megasquirt MS2PNP
+  
+  6. 420cc Rx8 injectors
+  
+  7. Robbins top w/ glass window
+  
+  8. FourtyFour LED Headlights
+  
+  9. Blacked out LED Turn signals
+  
+  10. Rexing V1 Dashcam
+  
+  11. Headless audio setup with Aux cord
+  
+  12. Walbro 180lph fuel pump
+  
+  13. RoadsterSport 3 Full exhaust system
+  
+  14. High flow catalytic converter
+  
+  15. 949 Racing Coolant Reroute
+  
+  16. AEM Wideband + Gauge
+  
+  17. Kosei K4R wheels (< 10 lbs each)
+  
+  18. Dunlop Direzza ZII Star Spec tires
+  
+  19. Moss Miata Door seals
+  
+  20. Garage Star Delrin door bushings
+  
+  21. Under trunk storage organizer
+  
+  22. 12V / 5V / G terminal blocks
 
-  Other words here
+
+  
 
 
-
-  * Things
-  * More things
 
 ---
