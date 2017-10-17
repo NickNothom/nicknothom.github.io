@@ -1,6 +1,7 @@
 body {
     overflow-x: hidden;
-    background-color: #111111;
+    background-color: #{{ site.color.background }};
+    color: #{{ site.color.text}}
 }
 
 p {
@@ -53,7 +54,7 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #{{ site.color.text }};
 }
 
 hr.star-light:after {
@@ -67,7 +68,7 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
-    background-color: #111111;
+    background-color: #{{ site.color.background }};
 }
 
 .img-centered {
@@ -385,7 +386,7 @@ footer .footer-below {
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: center;
+    text-align: left;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
