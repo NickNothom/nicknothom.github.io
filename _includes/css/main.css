@@ -396,6 +396,7 @@ footer .footer-below {
 .portfolio-modal .modal-content h2 {
     margin: 0;
     font-size: 3em;
+    text-align: center;
 }
 
 .portfolio-modal .modal-content img {
