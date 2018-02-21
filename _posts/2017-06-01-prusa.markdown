@@ -9,7 +9,7 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: >
-  This is my Prusa i3 MK2S. I assembled it in July 2017. It's an incredibly high FDM printer that is still accessible to individuals. I created a heated chamber as well to assist in printing materials such as ABS that have a high tendency to warp. The direct drive extruder allows it to print flexible materials well like TPU. 
+  This is my Prusa i3 MK2S. I assembled it in July 2017. It's an incredibly high quality FDM printer that is still accessible to individuals. I created a heated chamber as well to assist in printing materials such as ABS that have a high tendency to warp. The direct drive extruder allows it to print flexible materials well like TPU. 
   
   
   
