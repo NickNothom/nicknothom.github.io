@@ -1,0 +1,17 @@
+---
+layout: default
+title: Computing Cluster
+modal-id: 12
+date: 2013-12-20
+img: Cluster900600.jpg
+alt: image-alt
+project-date: December 2013
+category: Computing
+description: >
+  In 2013 I was teaching myself CAD in 3DS Max. Mainly to play with designing cars and other vehicles. I wanted to be able to create photorealistic renders, but they were taking nearly 8 hours per frame on the computer I had. 
+  I was able to acquire 15 Dell Optiplex machines and a gigabit network switch and connect them all together. From there I used VRay's build in master-slave rendering solution to get running on my project. For renders over 10 mintues, they were significantly faster running on this cluster.
+  The most difficult part of this was getting all of the data between each of the machines.
+  
+  
+  As I started to learn more about software I installed Linux on all of them and started experimenting with large scale calculations. I learned a lot by doing this, but didn't ultimately apply it to anything. Cloud computing has become so simple and inexpensive that there's little reason to do something like this.     
+---
