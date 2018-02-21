@@ -20,7 +20,7 @@ description: >
   [Web Interface code here](https://github.com/NickNothom/PushBoxWeb)
   
   
-  [Server and Endpoint node code here](https://github.com/NickNothom/PushBoxServer). 
+  [Server and Endpoint node code here](https://github.com/NickNothom/PushBoxServer)
   
   
   [Android app code here](https://github.com/NickNothom/PushBoxAndroid)
@@ -29,8 +29,8 @@ description: >
   Interface screenshots:
   
   
-  <img src="https://i.imgur.com/flROWxj.png" alt="alt" style="width: 40%;"/>
-  <img src="https://i.imgur.com/GTs0988.png" alt="alt" style="width: 60%;"/>
+  <img src="https://i.imgur.com/flROWxj.png" alt="alt" style="width: 30%;"/>
+  <img src="https://i.imgur.com/GTs0988.png" alt="alt" style="width: 50%;"/>
 
   
   First test:
