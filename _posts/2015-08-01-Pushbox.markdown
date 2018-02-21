@@ -1,2 +1,22 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZQNfP6zDGd4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+---
+layout: default
+title: PushBox
+modal-id: 12
+date: 2015-08-01
+img: Pushbox900600.jpg
+alt: image-alt
+project-date: August 2015
+category: Computing
+description: >
+  This is Pushbox, my first IOT project. It's a smart power strip that's controlled by an Android app, Android Wear, and a website. It uses NodeJS and tunnels outward to a management server so there is no router reconfiguration required. Response times from a click in the app to the relay actuation are about 40ms. 
 
+
+  It's currently automated to turn on my lights one minute before my alarms go off, so I can wake up naturally. It also automatically turns off my lights, fan, and electronic candle when I leave, and turns on an air purifier. When I get home, the air purifier is turned off and the lights turn on. 
+  
+  
+  Everything can be controlled through Google Assistant by voice. 
+  
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZQNfP6zDGd4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  
+---
