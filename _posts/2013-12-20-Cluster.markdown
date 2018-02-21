@@ -14,4 +14,13 @@ description: >
   
   
   As I started to learn more about software I installed Linux on all of them and started experimenting with large scale calculations. I learned a lot by doing this, but didn't ultimately apply it to anything. Cloud computing has become so simple and inexpensive that there's little reason to do something like this.     
+  
+  
+  Here's a screensot of the cluster doing a render during construction. Each square on the right represents a core working on a section of the image. 
+  
+  
+  <img src="https://i.imgur.com/tHJEy8E.jpg" alt="Aerial Photo" style="width: 80%;"/>
+
+  
+  
 ---
