@@ -1,0 +1,28 @@
+---
+layout: default
+title: Jawa Moped
+modal-id: 14
+date: 2012-05-20
+img: Jawa900600.jpg
+alt: image-alt
+project-date: May 2012
+category: Automotive
+description: >
+
+  I restored this early 1980s Jawa over the course of a couple years. It was pretty fun to work on because I think it may actually be the simplest internal combustion engine ever built. 
+  The engine is the size of a toaster and it's so small that something like head resurfacing can be done by hand. I eventually ended up tearing the motor down to replace the crankshaft bearings and all the seals. 
+  It never runs right, but it always runs.
+  
+  <img src="https://i.imgur.com/Z5nk17j.jpg" style="width: 80%;"/>
+  
+  
+  <img src="https://i.imgur.com/83UIOGV.jpg" style="width: 80%;"/>
+  
+  
+  <img src="https://i.imgur.com/XNk8t61.jpg" style="width: 80%;"/>
+  
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UmYlitwi9Js" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ 
+ 
+---
