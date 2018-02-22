@@ -1,0 +1,16 @@
+---
+layout: default
+title: Nexus 7 Dashboard
+modal-id: 15
+date: 2015-11-01
+img: Nexus7900600.jpg
+alt: image-alt
+project-date: November 2015
+category: Automotive
+description: >
+  Nexus 7 Dash Install
+  
+  <img src="https://i.imgur.com/aMyVhv9.jpg" style="width: 100%;"/>
+
+  
+---
