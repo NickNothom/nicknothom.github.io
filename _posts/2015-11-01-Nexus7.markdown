@@ -8,9 +8,12 @@ alt: image-alt
 project-date: November 2015
 category: Automotive
 description: >
-  Nexus 7 Dash Install
+  I was inspired by the Tesla dashboard, and wanted to create something similar in my own car. Using an $80 Nexus 7 tablet, I was able to create a very similar experience. It works for navigation, music, web searches, weather, etc.. Nicholas Powley helped me machine up an aluminum bracket for it. 
+  
   
   <img src="https://i.imgur.com/aMyVhv9.jpg" style="width: 100%;"/>
 
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ztM2QrLdSjE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   
 ---
