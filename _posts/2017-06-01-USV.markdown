@@ -1,0 +1,28 @@
+---
+layout: default
+title: Autonomous Catamaran
+modal-id: 16
+date: 2017-06-01
+img: USV900600.jpg
+alt: image-alt
+project-date: June 2017
+category: Robotics
+description: >
+
+
+  This is a 1 meter long, electric catamaran. In the marine robotics industry this is referred to as a USV (Unmanned Surface Vessel). It uses two [Blue Robotics](http://www.bluerobotics.com/) underwater thrusters for propulsion
+  
+  
+  The hulls are made of 3 pieces. An HDPE deck, an HDPE inner wall, and EPS foam buoyancy material. The deck and inner walls are CNC machined, the foam was hand carved with a hot wire. It has 20 pounds of thrust, and can run for over 8 hours. 
+  
+  
+  The firmware is ArduRover, running on a Pixhawk. It's capable of autonomous navigation. It can carry sonar sensors, water chemistry sensors and samplers, cameras, etc.. 
+
+  
+  <img src="https://i.imgur.com/pSpULZl.jpg" style="width: 80%;"/>
+
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fzBBAtTZuX8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+---
