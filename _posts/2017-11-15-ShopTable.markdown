@@ -16,7 +16,7 @@ description: >
   
   
   
-  [CAD Model Here](http://a360.co/2zIp9tf)
+  <a href="http://a360.co/2zIp9tf" target="_blank">CAD Model Here</a>
   
   
   
