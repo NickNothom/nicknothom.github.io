@@ -1,0 +1,24 @@
+---
+layout: default
+title: Tiny Internet Controlled Rover
+modal-id: 12
+date: 2018-05-01
+img: rover900600.jpg
+alt: image-alt
+project-date: May 2018
+category: Robotics
+description: >
+  This small 4WD rover was created based on Nik Ivanov's [Watney](https://github.com/nikivanov/watney). 
+  
+  The software was modified to allow remote control through my VPS. 
+  
+  I also added a night vision camera and some infrared LEDs which are controllable from a MOSFET. It runs on a Raspberry Pi Zero W, and is powered from a portable battery bank. The battery life is approximately 3 days. 
+  
+  
+  <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/s/xzkro/atqkdy" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+  
+
+  <div style="width: 100%; height: 0px; position: relative; padding-bottom: 54.167%;"><iframe src="https://streamable.com/s/00iye/ukdbee" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+
+
+---
