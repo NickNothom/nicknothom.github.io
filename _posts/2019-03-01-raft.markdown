@@ -5,7 +5,7 @@ modal-id: 20
 date: 2019-03-01
 img: raft900600.jpg
 alt: image-alt
-project-date: March 2018
+project-date: March 2019
 category: Robotics
 description: >
   I designed and built a removable thruster module for small personal watercraft. The main board and keels were routed out of HDPE, then smoothed for better hydrodynamics. It has several mounting slots for fitting to different vehicles.
